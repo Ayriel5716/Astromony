@@ -1,0 +1,2 @@
+include ':cmoney'
+rootProject.name = "Cmoney_Final"

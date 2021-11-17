@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CMoney</string>
+    <string name="f_t001">Astromony Picture of the Day</string>
+    <string name="f_b001">Request</string>
+    <string name="back">Back</string>
+    <string name="back_title">返回</string>
+    <string name="credit_copyright"><![CDATA[Credit & Copyright :]]></string>
+</resources>
